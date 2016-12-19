@@ -1,2 +1,27 @@
 # Project1GA
-game
+##Flappy Box 
+(for lack of a better name)
+
+Languages that were used:
+-HTML5
+-CSS3
+-Javascript
+
+Things that still need to be fixed:
+    1. Highscore reader
+    1. Better use of cookies 
+
+Things that need to be added:
+    1. sprites
+    1. sound (possibly music?)
+
+My thoughts working on this project:
+> Well if I am to speak candidly, then I will state that although I really enjoyed this project I definitely bit off more than I could chew. I spent the first two days basically reading up on gravity(), velocity on X and Y axis, creating infinite pipes (oh my gosh) and those are naming a few. 
+> I am happy that I chose this project though, because it has forced me learn behind what was taught and most of all tested my resourcefulness. I made it my mission to stay away from all frameworks which hurt me a lot because I saw how easily my code can be shortened to about 2/3 of what I wrote. 
+
+My biggest struggle:
+>Realizing how much I don’t know. I had a lot of help from stack overflow, MDN and watched plenty of videos, but I feel like everyone was using frameworks in the videos, so I stuck with videos on velocity manipulation and the logic part. I still don’t fully understand everything and I have only scratched the surface. 
+> Baby steps.
+> I made sure to write comments all over my code because I found myself being confused at certain parts
+>Enjoy? The Highscore is not implemented fully yet so it just counts your regular score.
+
