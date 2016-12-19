@@ -21,7 +21,7 @@ My thoughts working on this project:
 
 My biggest struggle:
 >Realizing how much I don’t know. I had a lot of help from stack overflow, MDN and watched plenty of videos, but I feel like everyone was using frameworks in the videos, so I stuck with videos on velocity manipulation and the logic part. I still don’t fully understand everything and I have only scratched the surface. 
-> Baby steps.
-> I made sure to write comments all over my code because I found myself being confused at certain parts
+Baby steps.
+.I made sure to write comments all over my code because I found myself being confused at certain parts.
 >Enjoy? The Highscore is not implemented fully yet so it just counts your regular score.
 
