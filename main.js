@@ -242,7 +242,7 @@ function gameOver() {
 
 
 function showMessage(message) {
-  ctx.fillStyle = 'white';
+  ctx.fillStyle = 'black';
   ctx.textAlign = 'center';
   ctx.font = "bold 20px 'Fredericka the Great', cursive";
   //apparently you're supposed to use Array.prototype.map.call instead of
