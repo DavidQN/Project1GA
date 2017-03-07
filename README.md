@@ -1,5 +1,9 @@
 # Project1GA
 ##Flappy Box (for lack of a better name)
+#### Make Sure to click "Space" or mouse "click" to fly!
+<img width="507" alt="screen shot 2017-03-07 at 5 49 48 pm" src="https://cloud.githubusercontent.com/assets/23644019/23681817/893f01b4-035e-11e7-92f1-7113fb4553a4.png">
+
+http://song-writer-dittos-80540.bitballoon.com/
 
 Languages that were used:
 - HTML5 (13 lines)
