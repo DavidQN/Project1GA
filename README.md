@@ -7,12 +7,12 @@ Languages that were used:
 - Javascript/Canvas
 
 Things that still need to be fixed:
-    - HighScore reader
-    - Better use of cookies
+- HighScore reader
+- Better use of cookies
 
 Things that need to be added:
-    - sprites
-    - sound (possibly music?)
+- sprites
+- sound (possibly music?)
 
 My thoughts working on this project:
 > Well if I am to speak candidly, then I will state that although I really enjoyed this project I definitely bit off more than I could chew. I spent the first two days basically reading up on gravity(), velocity on X and Y axis, creating infinite pipes (oh my gosh) and those are naming a few.
